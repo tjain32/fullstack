@@ -1,4 +1,4 @@
-*CRUD RESTful API with Go, GORM, JWT, Postgres, Mysql, and Testing*
+*CRUD RESTful API with Go, GORM, JWT, Postgres, and Testing*
 
 We built a blog application where a user can:
  - Signup (Register)
